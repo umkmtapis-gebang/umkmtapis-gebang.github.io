@@ -23,7 +23,7 @@
     padding-left: 8%;
     padding-right: 8%;
     box-sizing: border-box;
-    background-color: #FCE22A;
+    background-color: #FFD700;
 }
 
 .container-2 {
@@ -166,7 +166,7 @@ button a{
 
 footer {
     margin-top: 120px;
-    background: #FCE22A;
+    background: #FFD700;
     height: auto;
     width: 100%;
     padding-top: 20px;
@@ -223,7 +223,7 @@ footer {
 }
 
 .footer-bottom {
-    background-color: #FCE22A;
+    background-color: #FFD700;
     width: 100%;
     text-align: center;
     padding-bottom: 20px;
@@ -697,13 +697,13 @@ p.service_text{
 
 .floating-button .button-floating.shopee {
     bottom: 85px;
-    background-color: #FCE22A;
+    background-color: #FFD700;
     border: 3px solid #FFFFFF;
 }
 
 .floating-button .button-floating.instagram {
     bottom: 145px;
-    background-color: #FCE22A;
+    background-color: #FFD700;
     border: 3px solid #FFFFFF;
 }
 
