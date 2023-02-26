@@ -692,7 +692,7 @@ p.service_text{
 .floating-button .button-floating.whatsapp {
     bottom: 25px;
     background-color: #FFFFFF;
-    border: 3px solid green;
+    border: 3px solid #F2533A;
 }
 
 .floating-button .button-floating.shopee {
